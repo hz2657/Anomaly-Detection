@@ -1,4 +1,4 @@
-**Healthcare Fraud Detection**
+## Healthcare Fraud Detection
 
 The U.S. Department of health and human services in a pamphlet Avoiding Medicare Fraud and Abuse: A Roadmap for Physicians states “most physicians strive to work ethically, render high-quality medical care to their patients, and submit proper claims for payment,” yet “the presence of some dishonest health care providers who exploit the health care system for illegal personal gain has created the need for laws that combat fraud and abuse and ensure appropriate quality medical care.”
 
