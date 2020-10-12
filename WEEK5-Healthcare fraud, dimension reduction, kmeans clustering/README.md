@@ -25,3 +25,5 @@ Feature 4. ratio of average total payment to a provider / median for this clinic
 Feature 5. ratio of average total medicard coverage paid to a provider / median medicare coverage for this clinical condition in the state 
 
 Note: From EDA, we found the data are left skewed, thus median is more preferred than mean as a meansurement to state level. 
+
+![screenshot](graph.jpg)
