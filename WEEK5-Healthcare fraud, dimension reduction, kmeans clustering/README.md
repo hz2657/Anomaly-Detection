@@ -14,15 +14,16 @@ Medical fraud happens when a physician knowingly submitting false claims or maki
 
 **Features**
 
-Feature 1. total number of discharge by provider 
+- Feature 1. total number of discharge by provider 
 
-Feature 2. ratio of total number of discharge by provider to the median level of discharges in the same city 
+- Feature 2. ratio of total number of discharge by provider to the median level of discharges in the same city 
 
-Feature 3. ratio of average coverage by a provider / median coverage for this clinical condition in the state 
+- Feature 3. ratio of average coverage by a provider / median coverage for this clinical condition in the state 
 
-Feature 4. ratio of average total payment to a provider / median for this clinical condition in the state 
+- Feature 4. ratio of average total payment to a provider / median for this clinical condition in the state 
 
-Feature 5. ratio of average total medicard coverage paid to a provider / median medicare coverage for this clinical condition in the state 
+- Feature 5. ratio of average total medicard coverage paid to a provider / median medicare coverage for this clinical condition in the state 
+
 
 Note: From EDA, we found the data are left skewed, thus median is more preferred than mean as a meansurement to state level. 
 
