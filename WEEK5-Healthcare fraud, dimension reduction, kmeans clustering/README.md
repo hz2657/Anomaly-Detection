@@ -12,7 +12,7 @@ Identify hospitals that abuse resources -- health providers charge patients more
 **Steps**
 
 - Exploratory data analysis (EDA) for the healthcare industry
-- Create insightful features for machine learning and anomaly detection.
+- Create insightful features for machine learning and anomaly detection: 1. Create benchmark table (mean/median)  2. Get column/benchmark ratio as features
 - Dimension reduction: PCA (principal component analysis)
 - Clustering: Kmeans, identify outlier
 
