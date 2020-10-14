@@ -5,6 +5,7 @@ The U.S. Department of health and human services in a pamphlet Avoiding Medicare
 Medical fraud happens when a physician knowingly submitting false claims or making misrepresentations.  For example, a fraudster physician may collude with a pharmacist to add more expensive medicines to the prescription claim without the awareness of the patient. Then this false drug prescription claim is submitted to the insurer for reimbursements.This project aims to identify healthcare providers who are likely to be involved in fraud. 
 
 **Objective**
+
 Identify hospitals that abuse resources -- health providers charge patients more money than it should charge. 
 
 
