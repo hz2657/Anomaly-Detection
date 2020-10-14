@@ -1,5 +1,7 @@
 ## Healthcare Fraud Detection
 
+![screenshot](graph.jpg)
+
 The U.S. Department of health and human services in a pamphlet Avoiding Medicare Fraud and Abuse: A Roadmap for Physicians states “most physicians strive to work ethically, render high-quality medical care to their patients, and submit proper claims for payment,” yet “the presence of some dishonest health care providers who exploit the health care system for illegal personal gain has created the need for laws that combat fraud and abuse and ensure appropriate quality medical care.”
 
 Medical fraud happens when a physician knowingly submitting false claims or making misrepresentations.  For example, a fraudster physician may collude with a pharmacist to add more expensive medicines to the prescription claim without the awareness of the patient. Then this false drug prescription claim is submitted to the insurer for reimbursements.This project aims to identify healthcare providers who are likely to be involved in fraud. 
@@ -31,4 +33,4 @@ Identify hospitals that abuse resources -- health providers charge patients more
 
 Note: From EDA, we found the data are left skewed, thus median is more preferred than mean as a meansurement to state level. 
 
-![screenshot](graph.jpg)
+
