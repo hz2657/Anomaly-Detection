@@ -4,7 +4,11 @@
 
 1. construct features
 
-2. Use two PyOD methods - KNNs, PCA 
+2. implement unsupervised learning models, to find isolated observations - anomalies 
+
+- clustering methods: Knns, Kmeans
+
+- Use two PyOD methods - KNNs, PCA 
 
 - test different hyper-parameters 
 
@@ -15,7 +19,18 @@
 - average statistics of the variables of that cluster
 
 
+**key steps**
+
+1. build model
+
+2. select threshold
+
+3. show summary statistics + implementation
+
+
+
 **Section 1 PCA**
+
 1. method description: distance is to the center
 2. test hyper-parameters. 
 3. summary statistics for the variables by cluster
@@ -24,7 +39,9 @@
 
 
 **Section 2 Unsupervised KNN**
+
 1. method description: both supervised and unsupervised algorithm, distance is to the neighbors
+
 - we compute data points that are far from others
 - K: number of data points in that circle
 - anomaly score: shortest distance
