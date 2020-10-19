@@ -1,4 +1,4 @@
-# Identify outliers in the credit card dataset by unsupervised learning
+# unsupervised learning and credit card fraud detection
 
 **project structure**
 
