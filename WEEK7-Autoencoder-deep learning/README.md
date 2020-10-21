@@ -1,7 +1,9 @@
 
-neural network
+# Neural network - autoencoder
 
-autoencoder: 
+
+
+Autoencoder: 
 - non linear transformation
 - multiple layers, more efficient to train
 
