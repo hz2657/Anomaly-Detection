@@ -1,8 +1,6 @@
 
 # Neural network - autoencoder
 
-
-
 **Autoencoder**
 
 Autoencoder is a special type of neural network that uses the same data as both the input values and output values. The goal is to get the middle layer which reduces noises, it can also be considered as a method of dimension reduction. 
@@ -18,10 +16,14 @@ From the graph, we can see most observations are on the left of 0. The observati
 
 
 # Neural network - Isolated Forest
+Isolated Forest is a method to separate trees till all are isolated, and find which tree is the easiest to be seperated. An outlier is the easiest to be isolated. 
 
+iTree algorithm is different from the decision tree algorithm because iTree does not use a target variable to train the tree. It is an unsupervised learning method.
 
+If there are 1,000 subsets, there will be 1,000 iTrees. Each data point in an iTree will have an anomaly score. Because there are 1,000 iTrees, each data point will have multiple anomaly scores. The average (arithmetic mean) score for a data point across all the iTrees becomes the anomaly score for that data point.
 
 <img src="iforest.png" alt="album cover" width="500"/>
+
 
 
 <img src="img.png" alt="album cover" width="500"/>
