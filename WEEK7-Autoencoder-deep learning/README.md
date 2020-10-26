@@ -14,13 +14,15 @@ Applications of autoencoder include image noise reduction and image coloring.
 **Business insights** 
 From the graph, we can see most observations are on the left of 0. The observations above 0.2 are extreme cases, we will set the boundary to be 0.2 Observations on the right of 0.2 are in cluster 1, they accounts for 1.1% of total transactions. They have more spending on cardholder level, however, it takes more time for this transaction to happen. It is possible that the card is stolen or lost, then being used again. 
 
-![screenshot](Clf1_Anomaly_Scores.png)
+<img src="Clf1_Anomaly_Scores.png" alt="album cover" width="500"/>
+
 
 # Neural network - Isolated Forest
 
 
 
-![screenshot](iforest.png)
+<img src="iforest.png" alt="album cover" width="500"/>
 
 
-![screenshot](img.png)
+<img src="img.png" alt="album cover" width="500"/>
+
