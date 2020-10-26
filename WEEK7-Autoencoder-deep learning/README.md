@@ -12,7 +12,7 @@ Autoencoder uses non-linear transformation, if there are too many hidden layers 
 Applications of autoencoder include image noise reduction and image coloring. 
 
 
-![screenshot](Clf1 Anomaly Scores.png)
+![screenshot]('Clf1 Anomaly Scores.png')
 
 
 
