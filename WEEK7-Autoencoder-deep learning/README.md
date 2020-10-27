@@ -25,6 +25,3 @@ If there are 1,000 subsets, there will be 1,000 iTrees. Each data point in an iT
 <img src="iforest.png" alt="album cover" width="500"/>
 
 
-
-<img src="img.png" alt="album cover" width="500"/>
-
