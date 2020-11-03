@@ -17,6 +17,7 @@ H2O supports the most widely used statistical & machine learning algorithms incl
 6. Summary and busienss insights
 
 **Result**
+
 ADASYN over sampling method has the best performance
 - roc, auc curve: 0.8285 
 - area under precision recall curve: 0.7792 
@@ -26,6 +27,7 @@ ADASYN over sampling method has the best performance
 
 
 **Summary and busienss insights**
+
 1. More training data leads to better model performance, oversampling tends to have better performance than under-sampling given the same complexity level
 
 2. More complicated sampling methods tend to have better performance, for example, Neighborhood Cleaning Rule under-sampling over perform random under-sampling, and ADASYN over sampling over perform random over-sampling
