@@ -48,8 +48,9 @@ ADASYN over sampling method has the best performance
 5. Top5: Number of queries from P2P in the past 3 months
 
 
-**what's next**
-1. classify '-98', '-99' values. 
-2. tune the model parameters.
+**What's next**
+1. classify '-98', '-99' values and negative values. 
+2. tune the model parameters by grid search. 
 3. compare the oversampling method and the original dataset's model performance result
-
+4. try Lasso for feature selection
+5. use log transformation for skewed variables
