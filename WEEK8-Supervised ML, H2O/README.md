@@ -16,7 +16,12 @@ H2O supports the most widely used statistical & machine learning algorithms incl
 
 6. Summary and busienss insights
 
-
+**Result**
+ADASYN over sampling method has the best performance
+- roc, auc curve: 0.8285 
+- area under precision recall curve: 0.7792 
+- lift in first decile: 3.14 
+- max K-S equals 50. 
 <img src="graph/roc auc.png" alt="album cover" width="500"/>
 
 
