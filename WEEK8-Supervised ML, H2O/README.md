@@ -17,12 +17,16 @@ H2O supports the most widely used statistical & machine learning algorithms incl
 6. Summary and busienss insights
 
 
+<img src="graph/roc auc.png" alt="album cover" width="500"/>
+
+
 **Summary and busienss insights**
 1. More training data leads to better model performance, oversampling tends to have better performance than under-sampling given the same complexity level
 
 2. More complicated sampling methods tend to have better performance, for example, Neighborhood Cleaning Rule under-sampling over perform random under-sampling, and ADASYN over sampling over perform random over-sampling
 
 3. Business insights from variable importance: please see the analysis below
+
 
 **The most important predictors are**
 
