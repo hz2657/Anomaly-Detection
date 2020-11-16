@@ -6,6 +6,10 @@ The criteria include ROC and the cumulative Lift.
 
 # Keras
 
+Keras is a high-level Neural network. It makes it possible to implement deep learning models in a fast and efficient way. The simplest model in Keras is known as the Sequential model, which we are using in this week. 
+
+Keras makes use of either Tensor flow (by Google) or Theano backend (by Montreal’s Theano) to give it computational capabilities; this means that the Keras library can run on both Tensor flow and Theano frameworks
+
 The typical Keras workflows looks like:
 
 1. Define your training data: input tensor and target tensor
