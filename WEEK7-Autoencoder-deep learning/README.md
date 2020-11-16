@@ -5,9 +5,18 @@
 
 Autoencoder is a special type of neural network that uses the same data as both the input values and output values. The goal is to get the middle layer which reduces noises, it can also be considered as a method of dimension reduction. 
 
-Autoencoder uses non-linear transformation, if there are too many hidden layers or too many neutrons, the model tends to overfit; otherwise the model tends to underfit.
+Compared with the traditional dimension reduction method such as PCA, Autoencoder uses non-linear transformation, It is more efficient to train several layers with an autoencoder, rather than training one huge transformation with PCA.
 
-Applications of autoencoder include image noise reduction and image coloring. 
+If there are too many hidden layers or too many neutrons, the model tends to overfit; otherwise the model tends to underfit. Applications of autoencoder include image noise reduction and image coloring. 
+
+**How we define an outlier?**
+1. Build the Model
+2. Determine the Cut Point
+- The PyOD function .decision_function() calculates the distance or the anomaly score for each data point.
+- we use a histogram to count the frequency by the anomaly score, we will see the high scores corresponds to low frequency — the evidence of outliers. 
+3. Get the Summary Statistics by Cluster
+- to make sense of the cut point, see difference between two clusters, one is the major group, the other is the outlier group
+
 
 **Business insights** 
 
