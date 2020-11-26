@@ -39,5 +39,8 @@ Put penalty if there are too many coefficient in loss function
 - GLM with regularization has higher lift, while GLM without regularization has higher AUC.
 - GBM after tuning parameters from last week has the highest AUC. 
 
+
+**next step**
+- increase the max_run_time and max_models for Auto ML model, which may improve the performance
  
  
