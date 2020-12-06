@@ -23,4 +23,12 @@ We predicted 0.3, whereas the base_value is 0.1947. Feature values causing incre
 
 - CD008 which is LEN_TOTAL_INBOUND_CALLS_LAST_1MON, it increased the likelihood to be default.
  
-<img src="Individual SHAP Value Plot.png" alt="" width="500"/>
+<img src="Individual SHAP Value Plot.png" alt="" width="900"/>
+
+
+**Variable Importance Plot — Global Interpretability**
+
+**Summary Plot**
+
+**SHAP Dependence Plot — Global Interpretability**
+
